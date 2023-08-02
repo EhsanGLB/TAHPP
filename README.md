@@ -2,7 +2,7 @@
 This is a post-processing for time average of helicity written based on foam-extend-4.1.
 
 ## Math equation
-$$ TAH =  \int_0^T U. \nabla U $$
+$$ TAH = {1 \over T} \int_0^T U. \nabla U $$
 
 Which $\tau_w$, $\mu$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
 
